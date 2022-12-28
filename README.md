@@ -1,1 +1,3 @@
-# Number-guessing-game-in-Java
+Hi, I'm Rahul Salunkhe
+This number guessing game in java program in which a user will get to guess a randomly generated number from 1 to 100.
+If you have any crazy idea then please pull request...
